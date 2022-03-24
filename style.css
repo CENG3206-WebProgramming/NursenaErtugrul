@@ -1,0 +1,41 @@
+.topdiv{
+  background-color: AliceBlue;
+}
+.about{
+  text-align: center;
+}
+.about_me{
+  background-color: #faebff;
+}
+.education{
+  background-color: AliceBlue;
+}
+.education_bottom{
+  background-color: #faebff;
+}
+.experience{
+  background-color: AliceBlue;
+}
+.personal_info{
+  background-color: #faebff;
+}
+.experience_bottom{
+  background-color: #faebff;
+}
+.language{
+  background-color: AliceBlue;
+}
+.language_bottom{
+  background-color: #faebff;
+}
+.skills{
+  background-color: AliceBlue;
+}
+.skills_bottom{
+  background-color:#faebff
+}
+.name_me{
+  color: purple;
+  text-align: center;
+  font-size: 40px;
+}
